@@ -1,1 +1,1 @@
-# task2_Oasis infobyte_java programming
+# OIBSIP_TASK2_java programming
